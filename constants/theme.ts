@@ -14,3 +14,12 @@ export const Colors = {
   card: "#fff",
   cardForeground: "#2b2b2b",
 };
+
+export const Fonts = {
+  DMSansLight: "DMSans-Light",
+  DMSans: "DMSans-Regular",
+  DMSansMedium: "DMSans-Medium",
+  DMSansSemiBold: "DMSans-SemiBold",
+  DMSansBold: "DMSans-Bold",
+  DMSansExtraBold: "DMSans-ExtraBold",
+};
